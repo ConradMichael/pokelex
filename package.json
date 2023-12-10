@@ -1,5 +1,5 @@
 {
-  "name": "@conradmichael/pokelex",
+  "name": "pokelex",
   "version": "0.2.0",
   "description": "'Pokémon Lexicon' - Typescript SDK for the PokeAPI",
   "files": [
@@ -15,9 +15,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ConradMichael/pokelex.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Conrad Michael",
   "license": "ISC",
